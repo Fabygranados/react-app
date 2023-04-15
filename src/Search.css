@@ -1,0 +1,35 @@
+form {
+  text-align: center;
+}
+
+input[type="search" i] {
+  appearance: auto;
+  box-sizing: border-box;
+  padding: 3px 3px;
+}
+input {
+  padding: 3px 3px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: medium;
+}
+
+.Search {
+  font-family: "Courier New", Courier, monospace;
+  color: blueviolet;
+  text-align: center;
+}
+
+ul {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  display: block;
+  list-style-type: square;
+  padding-inline-start: 40px;
+  padding-left: 20%;
+  color: rgb(46, 82, 106);
+}
+
+li {
+  display: list-item;
+  text-align: -apple-systemweb-match-parent;
+  font-size: 20px;
+}
