@@ -12,7 +12,7 @@ root.render(
     <App />
     <Search />
     <footer>
-    <small><a href="https://github.com/Fabygranados/react-app" target="_blank">Open-source code</a>, by <a href="">Faby Granados 👾</a></small>
+    <small><a href="https://github.com/Fabygranados/react-app" target="_blank">Open-source code</a>, by <a href="">Faby Granados </a>👾</small>
     </footer>
   </StrictMode>
 );
