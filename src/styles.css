@@ -4,7 +4,8 @@
   color: rgb(34, 114, 145);
   font-size: larger;
 }
-small {
+footer {
   text-align: center;
+  margin: 0 auto;
   color: blueviolet;
 }
